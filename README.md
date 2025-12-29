@@ -1,26 +1,10 @@
 # Crystal-Ritual
 A design-driven ritual using crystals as physical anchors for focus and emotional awareness.
-A ritual is not a belief.
-It is a moment of alignment.
+This mini-app helps users become aware of their emotional states.
 
-Each Crystal Ritual begins with intention.
-Not to wish for change, but to notice it.
+Crystals are used as physical anchors for focus, emotional awareness, and gentle recalibration.
+Through simple, repeatable crystal resonance and charging rituals,
+the app guides users back to a state of inherent wholeness.
 
-Hold the crystal.
-Feel its weight, its temperature, its quiet resistance.
-This is matter that has waited millions of years to arrive in your hands.
-
-Breathe slowly.
-Name what you are carrying.
-Not what you want to fix, but what you are ready to face.
-
-The crystal does not act for you.
-It reflects, stabilizes, and remembers.
-
-Wear it not as protection,
-but as a reminder
-that clarity is something you practice,
-not something you receive.
-
-This is your ritual.
-Simple. Repeatable. Yours.
+The ritual does not attempt to fix the user.
+It supports observation, stabilization, and reconnection with one’s inner state.
